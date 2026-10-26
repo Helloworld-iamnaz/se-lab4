@@ -1,0 +1,2 @@
+GT4500,10,1.0,10,0  # primary fails, secondary would work
+TORPEDO,SINGLE  # failure, other store must not be tried

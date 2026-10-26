@@ -1,0 +1,3 @@
+GT4500,1,0,0,0  # one torpedo in total
+TORPEDO,SINGLE  # fires it
+TORPEDO,SINGLE  # nothing left
